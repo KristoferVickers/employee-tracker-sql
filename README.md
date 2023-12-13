@@ -3,10 +3,11 @@
 
 ## URL'S
 
+https://github.com/KristoferVickers/employee-tracker-sql
 
 ## Description
 
-
+Project not done I will resumbit this at a later date. I have Tutoring schedualed on the weekend to get this project to where it needs to be. 
 
 ## Acceptance Criteria
 
@@ -32,8 +33,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Screen Shot
 
-
+n/a
 
 ## Demo
 
-
+n/a
